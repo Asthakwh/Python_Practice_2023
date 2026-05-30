@@ -20,3 +20,5 @@ for line in lines:
 # Step 4: Close the output files
 odd_file.close()
 even_file.close()
+
+print("Processing complete. Check ODD.txt and EVEN.txt for results.")
