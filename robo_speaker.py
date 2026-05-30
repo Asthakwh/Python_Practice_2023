@@ -1,6 +1,6 @@
 #robo speaker
 import os
-
+# it will speak whatever you want it to speak, and if you want to quit just type q and it will say bye bye friend and exit the program
 if __name__ == '__main__':
     print("welcome to robo speaker")
     while True:
